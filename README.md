@@ -1,6 +1,8 @@
 # NeuronNetworksElixir
-Neuron networks for Elixir
+# Нейронная сеть на Elixir
 
+Kafka with Elixir  
+https://www.youtube.com/playlist?list=PLrTrFnOkIFb1ADZUiyEZdItAjDYnoy6WX  
 
 # Neuro
 
